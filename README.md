@@ -1,2 +1,1 @@
-# resume.github.io
-sahovskisresume
+# resume.github.ioresume
